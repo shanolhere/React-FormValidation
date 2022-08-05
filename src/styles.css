@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+form {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  flex-direction: column;
+}
+input {
+  width: 40%;
+}
+form p {
+  margin-top: 0px;
+  color: red;
+  align-items: left;
+}
